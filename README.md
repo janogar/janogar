@@ -1,35 +1,44 @@
-# Hola, soy Jano García 👋
+# ¡Hola! Soy Jano García 👋
 
-Estudiante de la **Tecnicatura en Tecnologías de la Información** (UTN, Facultad Regional Santa Fe) y del plan de carrera Java de **Dev Senior Code**. Vengo del soporte técnico y hardware, y me pasé al desarrollo porque me interesa más resolver el problema desde el diseño: pensar cómo se relacionan las clases antes de escribir la primera línea.
+Estudiante de la **Tecnicatura en Tecnologías de la Información** (UTN - Facultad Regional Santa Fe) y del plan de carrera **Java** en Dev Senior Code Academy. Vengo del área de soporte técnico, hardware e infraestructura de redes, y me pasé al desarrollo backend porque me apasiona resolver problemas desde el diseño de software: pensar cómo se relacionan las clases y capas de la arquitectura antes de escribir la primera línea de código.
 
-Busco mi primera oportunidad como **Desarrollador Junior** o **Soporte IT** en Buenos Aires, Argentina.
+Actualmente resido en **Pétange, Luxemburgo** (con base en **Buenos Aires, Argentina**), enfocado en la búsqueda de mi primera oportunidad laboral como **Java Junior / Trainee Backend Developer** o **Soporte IT / SysAdmin Trainee** (modalidad remota o presencial).
 
 ---
 
-### 🔭 En qué estoy ahora
+### 🔭 ¿En qué estoy trabajando actualmente?
+* 🚀 Cursando el módulo **Java Backend Developer** (tras haber completado la certificación *Java Junior Developer* en Dev Senior Code Academy).
+* 🎓 Cursando materias de la Tecnicatura en la UTN.
+* 🌐 Consolidando idiomas: **Español** (Nativo), **Inglés** (B1 / Comunicación laboral diaria) y **Francés** (Nivel A1.2 completado, iniciando A2.1).
+* 🛠️ Desarrollando APIs y proyectos propios en Java con Spring Boot, Maven y SQL.
 
-- Terminando el módulo **Java Junior** del plan de carrera de Dev Senior Code
-- Cursando el 2do cuatrimestre de la Tecnicatura en la UTN
-- Sumando proyectos propios en Java con foco en programación orientada a objetos
+---
 
-### 🧱 Stack
+### 🧱 Stack & Tecnologías
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+* **Backend & Lenguajes:** Java, Spring Boot, Maven, SQL, JavaScript, HTML5, CSS3 (Flexbox).
+* **Fundamentos de Arquitectura:** Programación Orientada a Objetos (POO), Patrones de Diseño (Singleton, MVC, etc.), Estructuras de Datos, Consumo/Diseño de REST APIs.
+* **Infraestructura & Redes:** Configuración de Redes (WireGuard, Tailscale, VPNs), Redes Locales/Servidores, Linux (Fedora/macOS/Windows), Soporte Técnico y Hardware PC.
+* **Herramientas & Entornos:** Git, GitHub, Maven, Eclipse, IntelliJ IDEA, VS Code.
 
-### 📌 Proyectos
+---
 
-**[Sistema de Logística de Reparto](https://github.com/janogar/TP_PBA_GarciaZameroBola-ez)**
-Simulador de consola en Java para una red de reparto (paquetes, vehículos, puntos de distribución). Clase abstracta `Vehiculo` con subclases que implementan su propio consumo de batería por polimorfismo. `Paquete` implementa `Comparable` y `Cloneable`. Trabajo práctico de POO, UTN — 2do cuatrimestre.
+### 📌 Proyectos Destacados
 
-**Sistema de Gestión de Inventario** *(repo próximamente)*
-Aplicación CRUD en Java con Vaadin. Clase abstracta `Producto` con subclases que calculan el valor de inventario con reglas propias (por ejemplo, depreciación de productos próximos a vencer). Capa de servicio con patrón Singleton. Módulo Java Junior — Dev Senior Code.
+#### 🚚 Sistema de Logística de Reparto
+* **Descripción:** Simulador de consola en Java para la gestión de una red de reparto (paquetes, vehículos y puntos de distribución).
+* **Características:** Implementación de clase abstracta `Vehiculo` con subclases que calculan su propio consumo de batería por polimorfismo. Interfaz `Comparable` y `Cloneable` aplicadas en la entidad `Paquete`.
+* **Contexto:** Trabajo Práctico de Programación Orientada a Objetos (UTN Santa Fe).
+
+#### 📦 Sistema de Gestión de Inventario
+* **Descripción:** Aplicación CRUD backend/fullstack en Java utilizando el framework Vaadin.
+* **Características:** Clase abstracta `Producto` con reglas de negocio personalizadas por subclase (cálculo de depreciación en productos próximos a vencer). Capa de servicio basada en el patrón Singleton.
+* **Contexto:** Módulo Java Junior / Dev Senior Code Academy.
+
+---
 
 ### 📫 Contacto
 
-[![Gmail](https://img.shields.io/badge/-garciajano07%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:garciajano07@gmail.com)
+* **Email:** [garciajano07@gmail.com](mailto:garciajano07@gmail.com)
+* **LinkedIn:** [Tu perfil de LinkedIn aquí]
+* **Ubicación:** Pétange, Luxemburgo | Buenos Aires, Argentina
