@@ -4,8 +4,6 @@ Estudiante de la **Tecnicatura en Tecnologías de la Información** (UTN, Facult
 
 Busco mi primera oportunidad como **Desarrollador Junior** o **Soporte IT** en Buenos Aires, Argentina.
 
-🌐 Portafolio: en construcción — próximamente en `janogar.github.io`
-
 ---
 
 ### 🔭 En qué estoy ahora
