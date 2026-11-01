@@ -41,4 +41,4 @@ Actualmente estoy en búsqueda activa de mi primera oportunidad laboral como **J
 ### 📫 Contacto y Redes
 
 * **Email:** [garciajano07@gmail.com](mailto:garciajano07@gmail.com)
-* **Ubicación:** Pétange, Luxemburgo (con base/disponibilidad en Buenos Aires, Argentina)
+* **Ubicación:** Pétange, Luxemburgo 
